@@ -12,6 +12,11 @@ alias kdd="kubectl delete deployment "
 alias kwp="watch -n1 kubectl get pods"
 
 
+alias klk="source ~/Desktop/personal-configuration-files/kubens_list.sh"
+alias kle="source ~/Desktop/personal-configuration-files/pod_exec.sh"
+alias kll="source ~/Desktop/personal-configuration-files/pod_logs.sh"
+
+
 # Git
 alias gcm="git checkout main"
 alias gcd="git checkout development"
