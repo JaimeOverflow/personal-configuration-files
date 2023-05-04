@@ -1,3 +1,4 @@
+
 # Kubernetes
 alias k="kubectl"
 alias kgd="kubectl get deployments"
@@ -9,6 +10,7 @@ alias ka="kubectl apply -f "
 alias kd="kubectl delete -f "
 alias kdd="kubectl delete deployment "
 alias kwp="watch -n1 kubectl get pods"
+
 
 # Git
 alias gcm="git checkout main"
